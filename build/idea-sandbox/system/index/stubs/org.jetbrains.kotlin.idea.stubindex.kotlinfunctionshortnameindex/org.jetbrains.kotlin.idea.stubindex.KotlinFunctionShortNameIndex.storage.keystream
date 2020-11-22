@@ -1,0 +1,82 @@
+addition_isCorrectonCreateuseAppContextcloseFinallyconstructMessageflipBack	tryDecodeendsWithLineSeparatoroffloadPrefixToreadLinebyteInputStreamdeleteRecursivelycopyRecursivelyrelativeToOrNullrelativeToOrSelftoRelativeStringOrNullwalkTopDowncreateTempFileresolvetoRelativeStringforEachBlockwalkwalkBottomUpappendBytesresolveSiblingoutputStream	normalizegetRootLengthcreateTempDir
+relativeTo
+appendTextprintWriteronFailonLeavegotoNextdirectoryStateonEntermaxDepthmonitorExitmonitorEnterasStringgetClassQualifiedNamegetClassSimpleNametoArrayImplcollectionToArray	addSpreadnotSupportedError	isArrayOffindNextrangefromIntisJavaIdentifierStartisJavaIdentifierPartisUpperCaseisLetterOrDigitisISOControl	isDefinedtoTitleCaseisLetterisIdentifierIgnorableisTitleCaseisDigitisLowerCaseensureUnicodeCasecharsetcreateFormatForDecimalssetSeedasKotlinRandomasJavaRandomtoBigDecimalOrNulloffsetByCodePointstoBigIntegerOrNullformatinternscreenFloatValueappendlncodePointBeforecodePointAtcodePointCountmeasureNanoTimemeasureTimeMillisexitProcesscallBycallcontravariant	covariant	invariantgetMatchResultNamedGroupgetJavaVersionapiVersionIsAtLeastcastToBaseTypewritewithLockgetOrSetthreadtimer	timerTaskschedulescheduleAtFixedRatefixedRateTimerawaitboxFloatboxLongboxChar
+boxBooleanboxShortboxByte	boxDoubleboxInt
+runSuspendprobeCoroutineResumedprobeCoroutineCreatedprobeCoroutineSuspendedgetLabelcheckDebugMetadataVersiongetSpilledVariableFieldMappinggetDebugMetadataAnnotationgetStackTraceElementImpl
+buildCachegetModuleName"createCoroutineFromSuspendFunctionnormalizeContinuationinterceptContinuationIfNeededdoResumetoExperimentalCoroutineContexttoExperimentalSuspendFunctiontoContinuation%toExperimentalContinuationInterceptortoCoroutineContexttoExperimentalContinuationtoContinuationInterceptorbuildContinuationByInvokeCall3hackToForceKotlinBuiltinsForKotlinCoroutinesPackagesortedSetOftoPropertiessortedMapOftoSortedMapmapValuesInPlaceprintStackTraceassertcontentDeepHashCodeImplcopyOfRangeImplcopyOfRangeToIndexCheckshortArrayOf
+intArrayOfclonelongArrayOfenumValueOfarrayOfushrcharArrayOfdoubleArrayOfbyteArrayOfbooleanArrayOffloatArrayOf	unaryPlus
+enumValuessubPathgetSizegetOwnergetDelegatereleaseIntercepted	nextShort
+emptyArraynextCharprintlnprintfromLiteralcontainsMatchInescapeReplacementfindAllmatchEntireescape
+capitalizenativeLastIndexOfdecapitalizedecodeToStringisLowSurrogateconcatToStringtoFloatOrNullStringencodeToByteArraydigitOfisWhitespaceregionMatchesisBlankisHighSurrogate	toBooleannativeIndexOftoDoubleOrNull
+checkRadixtoUByteOrNulltoUShortOrNulltoUIntOrNulltoULongOrNullsubstringBeforesplitToSequencereplaceRangeremovePrefixsubstringAftercommonSuffixWithlinesremoveSuffixtrimEndmatchesremoveSurroundingreplaceBeforeisNullOrBlankrangesDelimitedByremoveRange
+isNotBlanksubstringAfterLast
+indexOfAnylineSequencelastIndexOfAnypadStartcommonPrefixWithreplaceBeforeLastreplaceAfterLast	trimStartreplaceAfter	findAnyOfregionMatchesImplpadEndfindLastAnyOftrimhasSurrogatePairAtifBlanksubstringBeforeLast	substringchunkedSequencedeleteRangeappenddeleteAtappendRangehasPassedNowhasNotPassedNowtoLongNanoseconds	precisiontoComponentsconverttoIsoString
+isPositive
+isNegativetoLongMillisecondsformatToExactDecimalsformatScientificformatUpToDecimals
+toDurationmeasureTimedValuemeasureTimeconvertDurationUnit	shortNameoverflowboundsErrorMessagefastLog2RandomtakeUpperBitscheckRangeBoundsdoubleFromParts	nextBytesnextBits
+nextUBytescheckULongRangeBoundscheckUIntRangeBoundscheckStepIsPositivetoIntExactOrNulltoLongExactOrNulltoShortExactOrNullsteptoByteExactOrNulltypeOfcastsafeCastgetProgressionLastElementdifferenceModuloimpliesreturnsreturnsNotNullcallsInPlacecontractgenerateSequenceconstrainOnceemptySequenceSequence
+sequenceOfsequencesuspendCoroutineOrReturncreateCoroutineUninterceptedcreateCoroutineUnchecked	getResultprocessBareContinuationResumeContinuationsizegetPolymorphicElementminusPolymorphicKeyinterceptContinuationreleaseInterceptedContinuationisSubKeytryCastvetoable
+observablenotNullafterChangebeforeChangeemptySetbuildSet	hashSetOfoptimizeReadOnlySetlinkedSetOfmutableSetOfsetOf	hashMapOftoMutableMapemptyMap
+filterKeysmapOfmapCapacitytoPairlinkedMapOfbuildMapmapValuesTo	mapKeysTocheckBuilderCapacityoptimizeReadOnlyMapmutableMapOffilterValuesmapKeystoMapgetOrElseNullable	mapValuesgetOrPutreadResolvecopyElementsdecrementedaddFirstinternalIndexcopyCollectionElementsaddLastincrementednewCapacitypositiveModnegativeModinternalStructureinternalGetreduceTofoldToeachCountTo	aggregateaggregateToforwardisFullexpandedentryEqualsentryHashCodeentryToStringcontainsEntryimplFindEntryunorderedHashCode	setEqualscheckPositionIndexcheckElementIndexcheckRangeIndexesorderedEqualscheckBoundsIndexesorderedHashCodethrowIndexOverflowmutableListOfMutableListarrayListOfoptimizeReadOnlyListList	buildListcheckCountOverflowbinarySearchBy
+rangeCheckcheckIndexOverflow	emptyListlistOflistOfNotNullasCollectionthrowCountOverflowpreviousIndex	nextIndexprevioushasPreviousmovecopyToArrayImpl	eachCounttoSingletonMapOrSelftoSingletonMapcopyToArrayOfAnyorEmptysetValuereversePositionIndexreverseElementIndex
+asReversedwindowedIteratorcheckWindowSizeStep	sortArray	quickSorttryToComputeNextdonecomputeNextsetNextasULongArray
+asIntArrayasLongArrayasShortArrayasUShortArrayasUByteArrayasByteArrayasUIntArraywithDefaulttoArraysubListlistIteratorshuffleshuffled	retainAlladdAllretainNothing	removeAllcompareValuesBycompareValues
+nullsFirstthenDescending	compareBycompareByDescendingthenByDescendingnaturalOrderthencompareValuesByImplthenByreverseOrderthenComparator	nullsLastmaxOfminOf
+getOrThrowisNaN	toRawBits
+isInfinitelazysynchronizedtoBitsisFinitefromBitsrepeat	UIntArrayuintArrayOfcontainsAll
+UByteArrayubyteArrayOf
+ULongArrayulongArrayOfcountOneBitscountTrailingZeroBits
+rotateLeftcountLeadingZeroBitstakeLowestOneBittakeHighestOneBitrotateRightUShortArrayushortArrayOferrorulongToDoubleulongDivideulongComparedoubleToUIntulongRemainderdoubleToULonguintRemainderulongToStringuintCompareuintToDouble
+uintDivideisInitializedcopyIntocontentDeepToStringcontentDeepHashCodeplusElementfindsortedArrayWithreverse	foldRight
+component5copyOfkeyOfcopyOfRangesourceIteratortoByteArraycontentDeepEquals	writeText
+writeBytesputAllcontainsValuecontainsKeygetOrDefaultuse
+component3
+component4notisSurrogatereindentreplaceIndent
+trimIndent
+trimMarginindentWidthreplaceIndentByMarginprependIndentgetIndentFunction
+component8
+component9
+component7
+component6component10appendElementinsert	setLengthbuildStringinsertRangesetRangetoRegextoLongOrNulltoByteOrNulltoIntOrNulltoShortOrNullnumberFormatErrorprepareNextinitialValuebufferedbufferedWriter	readLinesuseLinesinputStreamreaderforEachLinecopyTowriterbufferedReaderIEEEremvalueOf	toPattern
+isInstanceinvokeSuspendinvokegetStackTraceElementnextBytetoBigDecimaltoBigIntegeraddSuppressedtoSortedSetmodtoCharcalcNexttanhasinhabsroundwithSignlnnextTowardscoshatanhln1pfloorlognextUplog2sinpowacossqrt
+roundToIntsinhatanasinsigntancosroundToLongtruncateacoshnextDownceilhypotexplog10expm1atan2toUpperCasetoLowerCasesplitreplace
+startsWithreplaceFirstendsWithsubSequencecapacitymarkNow
+elapsedNowreaddefaultPlatformRandom	nextFloat
+nextDoubledownTocoerceAtLeastcoerceIncoerceAtMostuntilfromClosedRangelessThanOrEquals%suspendCoroutineUninterceptedOrReturnintercepted#startCoroutineUninterceptedOrReturnbuildSequencebuildIteratornextNotReadyexceptionalStateyieldAllyieldresumeWithExceptioncreateCoroutinesuspendCoroutineresumestartCoroutine
+resumeWithminusKeycontentDeepToStringInternalcontentDeepToStringImplcontentDeepEqualsImpl
+trimToSizeensureCapacitysafeToConvertToSetconvertToSetForSetOperationWithcollectionSizeOrNullconvertToSetForSetOperationunzipIterablecollectionSizeOrDefaultremoveAtifEmptyisNullOrEmptybinarySearcharrayOfNullsonEachassociateWithzipWithNextassociateWithTochunkedminusElementwindowedwindowedSequencetoUIntArraytoUShortArraytoUByteArraytoULongArrayaddfilterInPlace
+removeLastremoveFirstOrNullremoveLastOrNullremoveFirstputcleargetOrImplicitDefaultlazyOfgetValuesuccessfailureexceptionOrNullshlshrtoBytetoInttoUIntdectoFloatinvremdivtoShorttoDoubletoLongtoUBytetoULonginctotoUShort	onSuccessmapCatchingrecoverCatching	onFailurethrowOnFailurerecoverrunCatchingcreateFailure
+ComparatorsuspendcomparenextUInttakeIf
+takeUnlessapplyletalsowithrunTODO	nextUByte	nextULong
+nextUShort	compareToequalshashCode	versionOf	isAtLeastwriteReplacecheckNotNullrequireNotNullcheckrequiretoStringcreatenextBooleannextIntnextLongcountfoldtoSet	getOrNullfirstOrNullsortedBy
+sortedWithreversedmapIndexedNotNulltoDoubleArray	withIndexsortDescendingscanIndexed	filterNotmaxsubtract
+scanReducemapfiltermapTosumByunionrandomOrNullreduceOrNullfilterNotNullToreduceRight	intersect
+asSequencefilterNotNullassociateBysingleOrNull	dropWhiletoFloatArrayelementAtOrNull
+mapNotNulltoMutableSet	toHashSettoShortArraymaxWithdistinctsortedArraysortByDescendingsortedArrayDescending
+distinctBy	groupByTosorttoCharArrayreduceRightOrNull
+toIntArrayminfilterTosortByfillsortedasListmapNotNullTo	partitiontoBooleanArrayfindLast
+asIterablereduceRightIndexedscanfilterIndexedgroupBytoMutableListsinglemapIndexedNotNullTominWithfilterNotToassociateTo
+sliceArrayslicefoldIndexedfirstrequireNoNullsminBy	associatedropLastreduceIndexedziptoListindexOfLastcontentHashCodemapIndexedTotoLongArrayjoinToStringrandomfilterIsInstanceTotakeanycontentEqualsreversedArraylastIndexOfsumByDoublefoldRightIndexedassociateByTo
+mapIndexedindexOfFirstdropLastWhiletoCollectiondropnoneindexOfcontentToStringsumtoTypedArrayfilterIsInstancesortedDescending
+lastOrNull	elementAt	flatMapTofilterIndexedTo
+groupingByscanReduceIndexedsortedByDescendinglastallelementAtOrElsesortWithaveragetakeLastWhilejoinToflatMaptakeLastmaxBy	takeWhilereducenexthasNexttracebundleOf
+postAtTimepersistableBundleOfparseAsHtmltoHtmltoFiletoUri
+htmlEncodetrimmedLengthisDigitsOnly	toSpannedgetSpans
+clearSpanstoSpannabletoHalftoKotlinPairtoAndroidPairlruCachebold	subscriptitaliccolorbackgroundColorsuperscriptinSpansbuildSpannedString	underlinestrikeThroughtoRangerangeTotoClosedRangetryWritereadText	readBytesremovevalueIteratorkeyIterator	getOrElseupdateMarginsRelativeforEachIndexed
+isNotEmptyminusAssign
+plusAssignisEmpty
+setMarginsupdateMarginsupdatePadding
+doOnAttach
+doOnDetachupdateLayoutParamsdoOnPreDraw
+doOnLayoutdoOnNextLayoutdrawToBitmapupdatePaddingRelativepostDelayedpostOnAnimationDelayed
+setPaddingaddTextChangedListenerdoBeforeTextChangeddoOnTextChangeddoAfterTextChangedcontentValuesOfedittransactionwithStyledAttributesgetSystemServiceupdateBoundstoBitmaptoIcontoAdaptiveIcongetIntOrNullgetStringOrNullgetBlobOrNullgetDoubleOrNullgetShortOrNullgetLongOrNullgetFloatOrNullgetDimensionPixelSizeOrThrowgetDimensionOrThrowgetBooleanOrThrowcheckAttributegetDimensionPixelOffsetOrThrowgetFontOrThrowgetTextArrayOrThrowgetResourceIdOrThrowgetTextOrThrowgetIntegerOrThrowgetIntOrThrowgetFloatOrThrowgetColorOrThrowgetDrawableOrThrowgetStringOrThrowgetColorStateListOrThrow
+toDrawableflattensetBlendModescalesetapplyCanvasgetcreateBitmaptoPointFtoPointscaleMatrixtranslationMatrixvaluesrotationMatrix	convertTotoColor
+toColorInttoColorLongtimestoRectFtoRegiontoRect	transformrecord	withScalewithTranslationwithRotation
+withMatrixwithSkewwithClipwithSavetoColorFilter
+toXfermodecontainsandminusxor
+unaryMinusplusiteratorforEachordecodeBitmapdecodeDrawable
+component2
+component1addPauseListener
+doOnRepeat
+doOnResume
+doOnCancel	doOnPauseaddListenerdoOnEnd	doOnStartensureItemIteratorsizeOfentryRemovedbeforeTextChangedafterTextChangedonTextChangedonViewDetachedFromWindowonLayoutChangeonViewAttachedToWindowonAnimationResumeonAnimationStartonAnimationPauseonAnimationCancelonAnimationEndonAnimationRepeatonTransitionResumeonTransitionPauseonTransitionEndonTransitionStartonTransitionCancel                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

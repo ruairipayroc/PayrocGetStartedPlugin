@@ -1,0 +1,313 @@
+igger
+stringsconversionutilkeyphrasemetadatasoundtriggermodulekeyphraseenrollmentinfo
+camerainfo
+strings
+serialportsensoreventcamerastatustriggereventsensormanagerserialmanagerhardwarebuffersensorlistenergeomagneticfieldconsumerirmanager
+stringslegacysensormanagersensordirectchannelsensoreventcallbacksensoreventlistenersystemsensormanagersensoradditionalinfosensoreventlistener2sensorprivacymanagertriggereventlistener
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+address
+countrycriteriageocodergeofencegpsclocklocation
+strings	gnssclock	gpsstatus
+gnssstatusgnssrequestgpssatellitelocationtimegeocoderparamsgpsmeasurementcountrydetector
+stringscountrylistenergnssantennainfognssmeasurementlocationmanagerlocationrequestgnsscapabilitieslocationlistenerlocationproviderfusedbatchoptions
+stringsgnssreflectingplanegpsmeasurementseventgpsnavigationmessagegnssmeasurementseventgnssnavigationmessageonnmeamessagelistenersettinginjectorserviceabstractlistenermanager
+stringsbatchedlocationcallbackgnsssinglesatcorrectionlocationmanagerinternalgpsnavigationmessageeventgnssmeasurementcorrections
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+stringsglobalsettingssecuresettings
+stringssystemsettingsdevicespecificsettings
+strings
+strings
+strings
+strings
+strings
+strings	validatorlistvalidatorttslistvalidatortilelistvalidator
+stringssettingsvalidatorsdiscretevaluevalidatorsettingsvalidatorstestglobalsettingsvalidatorspackagenamelistvalidatorsecuresettingsvalidatorssystemsettingsvalidatorscomponentnamelistvalidatorinclusivefloatrangevalidator
+strings!inclusiveintegerrangevalidator+(accessibilityshortcuttargetlistvalidator
+browser
+calllogcontactssettings	downloads	telephony
+alarmclock
+stringsbasecolumnsfontrequestlivefoldersdeviceconfigfontscontractmetadatareadersyncconstvalueuserdictionary
+stringsbrowsercontractopenablecolumnscalendarcontractcontactscontractcontactsinternaldocumentscontractdocumentsprovideronetimeusebuildersyncstatecontract
+stringsvoicemailcontractsettingsbackuptestsettingsstringutilandroiddeviceconfigsearchindexabledatablockednumbercontractdeviceconfig_delegatesettingsslicescontractsearchindexableresource
+stringssearchrecentsuggestionssearchindexablescontractsearchindexablesprovidertimezonerulesdatacontract
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+stringspin	domain	pinsettrustanchorconfigsourcexmlconfigsource
+stringsroottrustmanagerapplicationconfigcertificatesourcecertificatesentryrefkeystoreconfigsourcemanifestconfigsourcewfacertificatesourcenetworksecurityconfig
+stringsusercertificatesourcesystemcertificatesourcekeystorecertificatesourceresourcecertificatesourcedirectorycertificatesourceroottrustmanagerfactoryspiconfignetworksecuritypolicynetworksecuritytrustmanager networksecurityconfigprovider
+strings!trustedcertificatestoreadapter
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+stringsutil
+resultdataidentitycredential
+stringscredstoreresultdatapersonalizationdataaccesscontrolprofileaccesscontrolprofileididentitycredentialstoremessagedecryptionexceptionwritableidentitycredential
+stringscredstoreidentitycredentialidentitycredentialexceptionalreadypersonalizedexceptiondoctypenotsupportedexception!invalidrequestmessageexception"invalidreadersignatureexception# ciphersuitenotsupportedexception
+strings# credstoreidentitycredentialstore$!unknownauthenticationkeyexception%"sessiontranscriptmismatchexception&#credstorewritableidentitycredential&#ephemeralpublickeynotfoundexception(%noauthenticationkeyavailableexception
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+stringsrecoverysessionkeychainsnapshotrecoverycertpath
+stringsrecoverycontrollerkeyderivationparamswrappedapplicationkeysessionexpiredexceptiontrustedrootcertificateskeychainprotectionparamsdecryptionfailedexceptionlockscreenrequiredexception
+stringsx509certificateparsingutils# internalrecoveryserviceexceptionutils
+keyinfo
+arrayutilsuserauthargskeypropertieskeyprotectionkeymasterutilswrappedkeyentry
+stringsattestationutilskeystoreresponseandroidkeystorekeyandroidkeystorespikeyexpiredexceptionkeygenparameterspecandroidkeystorehmacspiandroidkeystoreproviderkeyattestationexceptionkeynotyetvalidexception
+stringskeystorecryptooperationandroidkeystorepublickeyandroidkeystoresecretkeykeystoreconnectexceptionandroidkeystoreprivatekeydelegatingx509certificateandroidkeystoreecpublickeyandroidkeystoreecprivatekeyandroidkeystorersacipherspi
+stringsandroidkeystorersapublickeyandroidkeystore3descipherspiandroidkeystorecipherspibaseandroidkeystorekeyfactoryspiandroidkeystorersaprivatekeydeviceidattestationexceptionkeystorecryptooperationutils parcelablekeygenparameterspec
+strings strongboxunavailableexception usernotauthenticatedexception!androidkeystorekeygeneratorspi!androidkeystorersasignaturespi"androidkeystoresignaturespibase"keystorecryptooperationstreamer# androidkeystoreecdsasignaturespi# userpresenceunavailableexception$!androidkeystoreloadstoreparameter%"androidkeystorekeypairgeneratorspi
+strings%"androidkeystoresecretkeyfactoryspi%"keypermanentlyinvalidatedexception&#androidkeystorebcworkaroundprovider&#securekeyimportunavailableexception)&keystorecryptooperationchunkedstreamer+(androidkeystoreauthenticatedaescipherspi-*androidkeystoreunauthenticatedaescipherspi
+strings
+strings
+strings
+strings
+stringsexportresultkeymasterblobkeymasterdefsoperationresultkeymasterargumentkeycharacteristicskeymasterarguments
+stringskeymasterintargumentkeymasterblobargumentkeymasterdateargumentkeymasterlongargumentkeymasterbooleanargumentkeyattestationpackageinfokeymastercertificatechainkeyattestationapplicationid	scrypt
+stringskeychainkeystore
+gatekeepercredentialssystemkeystoreattestedkeypairkeychainexceptionkeystoreargumentskeystoreexception
+stringskeystoreparameterconfirmationpromptconfirmationcallbackfileintegritymanagerkeypairgeneratorspeckeychainaliascallbacknetworksecuritypolicy!frameworknetworksecuritypolicy$!confirmationnotavailableexception
+strings)&confirmationalreadypresentingexception
+strings
+strings
+strings
+zoneinfodbtimezonefindertelephonylookupcountrytimezonestelephonynetworktzdatasetversiontelephonynetworkfinder
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+stringsanimatorkeyframe	keyframesanimatorsetkeyframesetintevaluator
+stringstimeanimatorargbevaluatorpathkeyframesrectevaluatortypeconvertertypeevaluatorvalueanimatorfloatevaluator
+stringsintkeyframesetobjectanimatorrevealanimatoranimationthreadpointfevaluatoranimationhandleranimatorinflater
+stringsfloatkeyframesetlayouttransitiontimeinterpolatorintarrayevaluatorstatelistanimatorfloatarrayevaluatorpropertyvaluesholderanimatorlisteneradapterbidirectionaltypeconverter
+strings propertyvaluesholder_accessor propertyvaluesholder_delegate
+strings
+strings
+stringsappwidgethostappwidgetmanagerappwidgethostviewappwidgetprovider
+stringspendinghostupdateappwidgetproviderinfoappwidgetmanagerinternal
+stringsattentionmanagerinternal
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+scanfilter
+scanrecord
+strings
+scanresultscancallbackscansettingsadvertisedataadvertisingset
+stringstruncatedfilterbluetoothleutilsadvertisecallbackadvertisesettingsbluetoothlescannerbluetoothleadvertiseradvertisingsetcallbackresultstoragedescriptoradvertisingsetparameters
+stringsperiodicadvertisingreportperiodicadvertisingmanagerperiodicadvertisingcallback periodicadvertisingparameters
+oobdata	sdprecord
+uidtrafficbluetoothmap
+stringsbluetoothpanbluetoothsapsdpmasrecordsdpmnsrecordsdppserecordbluetootha2dpbluetoothgattbluetoothpbapbluetoothuuid
+stringssdpsapsrecordbluetoothavrcpbluetoothclassbluetoothdevicebluetoothhealthbluetoothsocketsdpoppopsrecordbluetoothadapterbluetoothheadset
+stringsbluetoothhidhostbluetoothmanagerbluetoothprofilebluetootha2dpsinkbluetoothhiddevicebluetoothmapclientbluetoothgattserverbluetoothhearingaidbluetoothpbapclient
+stringsbluetoothaudioconfigbluetoothcodecconfigbluetoothcodecstatusbluetoothgattservicebluetoothinputstreambluetoothmasinstancebluetoothdevicepickerbluetoothgattcallbackbluetoothoutputstream
+stringsbluetoothserversocketbluetoothheadsetclientbluetoothgattdescriptorbluetoothhealthcallbackbluetoothassignednumbersbluetoothavrcpcontrollerbluetoothprofileconnectorbluetoothheadsetclientcall
+stringsbluetoothactivityenergyinfobluetoothgattcharacteristicbluetoothgattservercallbackbluetoothavrcpplayersettingsbluetoothgattincludedservice"bluetoothhealthappconfiguration# bluetoothhiddeviceappqossettings# bluetoothhiddeviceappsdpsettings
+strings
+strings
+strings
+stringsassociationdevicefilterwifidevicefilterassociationrequestbluetoothdevicefilter
+stringscompaniondevicemanagerbluetoothledevicefilterbluetoothdevicefilterutils
+strings
+stringsbenchmarkrunnerbenchmarkresults
+stringsuserlifecycletestsbenchmarkresultsreporter
+strings
+strings
+strings	dimensdimens_material
+strings
+stringsstats
+stringsbitmaputilslayoututilsshellhelperstatemanagerbenchmarkstatesettingshelperstatekeeperruletracemarkparserperftestactivityperfstatusreportermanualbenchmarkstate
+stringssettingsstatemanagertestpackageinstalleronetimesettingslistenersettingsstatekeeperruleperfmanualstatusreportersystemperftest
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+strings
+smsmanager
+smsmessagegsmcelllocationimsutimplbaseimssmsimplbaseimsecbmimplbaseimsconfigimplbasercscapabilityexchangercssipoptionsimplbaseimscallsessionimplbaseimsfeatureconfigurationimsregistrationimplbaseimsmultiendpointimplbasercspresenceexchangeimplbase imsstreammediasessionimplbaseimsconfigimplbaseimsutlistenerimplbaseimscallsessionimplbase
+imsfeature
+rcsfeaturemmtelfeature
+imsservice
+imsfeature
+rcsfeaturemmtelfeaturecapabilitychangerequest	imsssdata	imsssinfo
+imsmanager
+imsserviceimsexceptionimsrcsmanagerimsreasoninfoimsutlistenerrcsuceadapterimscallprofileimscallsessionimsmmtelmanagerimscallforwardinfoimsconferencestateprovisioningmanagerregistrationmanagerimsexternalcallstateimsvideocallproviderimsstreammediaprofileimscallsessionlistenerrcscontactucecapabilityimssuppservicenotificationcdmacelllocationcdmasmscbprogramdatacdmasmscbprogramresults
+apnsettingdataprofiledataservicedatacallresponsedataservicecallbackqualifiednetworksservicevendorutilsmbmsdownloadservicebasembmsgroupcallservicebasembmsstreamingservicebasefileinfo	groupcall	mbmsutils
+mbmserrorsserviceinfouripathpairdownloadrequestfileserviceinfostreamingservicegroupcallcallbackmbmsdownloadreceivermbmstempfileproviderstreamingserviceinfodownloadstatuslistenerdownloadprogresslistenerstreamingservicecallbackinternalgroupcallcallbackmbmsdownloadsessioncallbackmbmsgroupcallsessioncallbackmbmsstreamingsessioncallback!internaldownloadstatuslistener"internaldownloadsessioncallback# internaldownloadprogresslistener# internalgroupcallsessioncallback# internalstreamingservicecallback# internalstreamingsessioncallback	euiccinfoeuiccmanagereuicccardmanagereuiccnotificationeuiccrulesauthtabledownloadablesubscriptionemergencynumberrlog
+pcodatacellinfo	modeminfo	pinresult
+annotation
+cbgeoutils
+cellinfonr
+mmsmanager
+smsmanager
+smsmessagebarringinfocallqualitycellinfogsmcellinfoltenetworkscancellidentitycellinfocdmacelllocationservicestatesmscbmessageuicccardinfouiccslotinfoussdresponsecellconfigltecellinfowcdmadatafailcausesmscbcmasinfosmscbetwsinfosmscblocationcallattributescellidentitynrnetworkservicesignalstrengthuiccaccessruleanomalyreportercellidentitygsmcellidentityltecellinfotdscdmadisconnectcausephonecapabilitycellidentitycdmaphonenumberrangephonenumberutilsprecisecallstatesubscriptioninfosubscriptionplantelephonymanagercellidentitywcdmamodemactivityinforadioaccessfamilyvolteservicestateaccessnetworkutilscallforwardinginfocdmaeriinformationcellsignalstrengthclientrequeststatsimsiencryptioninfoltevopssupportinfonetworkscanrequestphonestatelistenertelephonyhistogramvisualvoicemailsmscellidentitytdscdmambmsdownloadsessionneighboringcellinfosignalthresholdinfosubscriptionmanageravailablenetworkinfocarrierconfigmanagercellbroadcastintentscellbroadcastservicecellsignalstrengthnrlocationaccesspolicymbmsgroupcallsessionmbmsstreamingsessionradioaccessspecifiertelephonydisplayinfotelephonyscanmanagercellsignalstrengthgsmcellsignalstrengthltepackagechangereceiverphysicalchannelconfigaccessnetworkconstantscellsignalstrengthcdmanetworkservicecallbackprecisedisconnectcausevisualvoicemailservicecarrierrestrictionrulescellsignalstrengthwcdmanetworkregistrationinfotelephonyregistrymanagercellsignalstrengthtdscdmaclosedsubscribergroupinfodataconnectionrealtimeinfonumberverificationcallbackprecisedataconnectionstatedataspecificregistrationinfojapanesephonenumberformatter iccopenlogicalchannelresponse telephonyframeworkinitializer voicespecificregistrationinfo# phonenumberformattingtextwatcher# visualvoicemailsmsfiltersettingspxhidesizeidres	anyres	intdef	rawres	widget	xmlres
+animres
+attrres
+boolres
+fontres
+longdef
+menures
+nonnull
+testapiappidintarrayrescolorintcolorresdimenresintrangenullablestyleresuithread	anythread	byteslong	callsuper	colorlong	condemned	dimension	halffloat	layoutres	stringdef	stringres	systemapi	targetapi	useridint
+floatrange
+integerres
+mainthread
+pluralsresanimatorrescheckresultdrawableresfractionressdkconstantbinderthreadstyleableressuppresslintworkerthreadnavigationressystemservicetransitionresinterpolatorresrequiresfeaturesuppressautodocuserhandleawarecallbackexecutorbroadcastbehaviordurationmillislongrequirespermissionelapsedrealtimelongcurrenttimemillislongcurrenttimesecondslongpermissionstatepermissionmanagerpermissionmanagerinternalruntimepermissionusageinfopermissioncontrollermanagerpermissioncontrollerservice$!runtimepermissionpresentationinfo
+preferencelistpreferencegenericinflaterpreferencegroupdialogpreferencepreferencescreenseekbarvolumizerswitchpreferencevolumepreferencepreferencemanagerseekbarpreferencecheckboxpreferenceedittextpreferencepreferenceactivitypreferencecategorypreferencefragmentpreferenceinflaterringtonepreferencetwostatepreferencepreference_delegatepreferencedatastoremulticheckpreferencepreferenceframelayoutpreferencegroupadapterseekbardialogpreferencebridgepreferenceinflatermultiselectlistpreferencefadesceneslide	rotate
+explode
+recolor	arcmotion	crossfade
+changetext
+pathmotion
+transition
+visibilitychangeboundschangescrolltransitionsetautotransitionchangetransformsidepropagationtransitionutilschangeclipboundstransitionvaluespatternpathmotiontransitionmanagertransitioninflatercircularpropagationchangeimagetransformtransitionvaluesmapstransitionpropagationvisibilitypropagationtransitionlisteneradaptertranslationanimationcreatorpackage-infosurfacerenderfiltersurfacetargetfilter
+framefetch
+framestore
+nullfilterframebranchframesourceobjectsourcecallbackfilterretargetfiltergltexturesourcegltexturetargetinputstreamsourceoutputstreamtargettouppercasepackage-infostringloggerstringsourcepackage-infosinwavefiltermediasourcecamerasourcepackage-infosurfacetexturesourcesurfacetexturetarget	invert
+cropfilter
+flipfilter
+tintfilterblendfiltergrainfilterimageslicersepiafiltertorgbfilterbitmapsourceimageencoderpackage-inforedeyefilterresizefilterrotatefiltertograyfiltertorgbafilterautofixfilterduotonefilterfisheyefilterimagestitcherlomoishfiltersharpenfiltercontrastfiltercroprectfilterdrawrectfilternegativefiltersaturatefiltervignettefilterfilllightfilterposterizefilteralphablendfilterblackwhitefilterbrightnessfilterstraightenfilterdocumentaryfilterdrawoverlayfiltersimpleimagefiltercrossprocessfilterimagecombinefiltertopackedgrayfilterbitmapoverlayfilterfixedrotationfiltercolortemperaturefilterbackdropperfiltermediaencoderfiltermediarecorderstopexception
+throughputpackage-infothroughputfilterprintjobrecommendationinforecommendationserviceprintserviceprintdocumentprintserviceinfoprinterdiscoverysessioncustomprintericoncallbackfontint2int3int4meshtypebyte2byte3byte4long2long3long4	float2	float3	float4	script	short2	short3	short4
+baseobj
+double2
+double3
+double4
+element
+filea3d
+program
+sampler
+scriptcmatrix2fmatrix3fmatrix4f
+allocationfieldpackerscriptgroupprogramstorerenderscriptprogramrasterprogramvertexrssurfaceviewrstextureviewrenderscriptglprogramfragmentscriptintrinsicallocationadapterrsdriverexceptionrsruntimeexceptionscriptintrinsiclutscriptintrinsicblasscriptintrinsicblurrenderscriptcachedirscriptintrinsic3dlutscriptintrinsicblendscriptintrinsicresizersinvalidstateexceptionscriptintrinsicyuvtorgbscriptintrinsichistogramprogramvertexfixedfunctionrsillegalargumentexceptionscriptintrinsiccolormatrixscriptintrinsicconvolve3x3scriptintrinsicconvolve5x5programfragmentfixedfunctionkeyboardkeyboardviewextractbuttonextractedittextsoftinputwindowextracteditlayoutinputmethodserviceiinputmethodwrapperinlinesuggestionsessioncompactextracteditlayoutabstractinputmethodserviceiinputmethodsessionwrapper$!inlinesuggestionsessioncontroller(%multiclientinputmethodservicedelegate,)multiclientinputmethodservicedelegateimpl.+multiclientinputmethodclientcallbackadaptoraccessibilityutilsgesturedescriptionaccessibilityserviceaccessibilityserviceinfoaccessibilitygestureeventaccessibilityshortcutinfofingerprintgesturecontroller accessibilitybuttoncontroller$!runtimepermissionpresenterservicestubsidecarsidecarhelpersidecarprovidersettingssidecarimpl
+ziputilmultidexziputiltestmultidextestzipentryreadermultidexextractormultidexapplicationint2int3int4typebyte2byte3byte4long2long3long4	float2	float3	float4	script	short2	short3	short4
+baseobj
+double2
+double3
+double4
+element
+sampler
+scriptcmatrix2fmatrix3fmatrix4f
+allocationfieldpackerscriptgrouprenderscriptscriptintrinsicrsdriverexceptionrsruntimeexceptionscriptintrinsiclutscriptintrinsicblasscriptintrinsicblurscriptintrinsic3dlutscriptintrinsicblendscriptintrinsicresizersinvalidstateexceptionscriptintrinsicyuvtorgbscriptintrinsichistogramrsillegalargumentexceptionscriptintrinsiccolormatrixscriptintrinsicconvolve3x3scriptintrinsicconvolve5x5package-infomockfilesystemmockfilesystemproviderdummyforegroundactivityfoordnsbenchmarkidnbenchmarkbidibenchmarkfilebenchmarkmathbenchmarkfloatbenchmarkbitsetbenchmarkcipherbenchmarkdoublebenchmarkrandombenchmarkstringbenchmarkcharsetbenchmarkintegerbenchmarkjarfilebenchmarkchecksumbenchmarkcollatorbenchmarkproviderbenchmarktimezonebenchmarkcharacterbenchmarkformatterbenchmarksignaturebenchmarksslsocketbenchmarkbigintegerbenchmarkbytebufferbenchmarkdateformatbenchmarkmutableintbenchmarkreflectionbenchmarkstrictmathbenchmarkcharsetutf8benchmarkcollectionsbenchmarksslloopbackbenchmarkstringsplitbenchmarkthreadlocalbenchmarkxmlentitiesbenchmarkdoprivilegedbenchmarknativemethodbenchmarknumberformatbenchmarkrealtostringbenchmarkschemeprefixbenchmarkstringequalsbenchmarkstringlengthbenchmarkstringtorealbenchmarkbreakiteratorbenchmarkdecimalformatbenchmarkmessagedigestbenchmarkpriorityqueuebenchmarkserializationbenchmarkstringbuilderbenchmarkstringisemptybenchmarkstringreplacebenchmarkstringtobytesbenchmarkurlconnectionbenchmarkbytebufferbulkbenchmarkcharsetfornamebenchmarkdefaultcharsetbenchmarkequalshashcodebenchmarkpropertyaccessbenchmarkannotatedelementbenchmarkexpensiveobjectsbenchmarkhostnameverifierbenchmarkintegraltostringbenchmarkkeypairgeneratorbenchmarkloopingbackwardsbenchmarksimpledateformatbenchmarksslsocketfactorybenchmarkstringreplaceallbenchmarkcipherinputstreambenchmarkintconstantdivisionbenchmark decimalformatsymbolsbenchmark intconstantremainderbenchmark%"intconstantmultiplicationbenchmark(%bytebufferscalarversusvectorbenchmarkclonebenchmarkinvokeinterfacezipfilebenchmarkadditionbenchmarkxmlparsebenchmarkarraycopybenchmarkreferencebenchmarkfieldaccessbenchmarkimtconflictbenchmarkzipfilereadbenchmarkdeeparrayopsbenchmarkreferencegetbenchmarkxmlserializebenchmarkarrayiterationbenchmarkmultiplicationbenchmarkstringdexcachebenchmarkbufferedzipfilebenchmarksmallbigintegerbenchmarkstringiterationbenchmarksystemarraycopybenchmarkmethodinvocationbenchmarkgetsystempropertybenchmarkhashedcollectionsbenchmarkarraylistiterationbenchmarkclassloaderresourcebenchmark"virtualversusinterfacebenchmark
+package	source build_file_checksumsmy_applicationmy_application.appjarrepositories/,gradle__androidx_annotation_annotation_1_1_0/,gradle__androidx_activity_activity_1_0_0_aar;8gradle__androidx_appcompat_appcompat_resources_1_1_0_aar1.gradle__androidx_appcompat_appcompat_1_1_0_aar41gradle__androidx_arch_core_core_runtime_2_0_0_aar/,gradle__androidx_arch_core_core_common_2_1_0/,gradle__androidx_collection_collection_1_1_0/,gradle__androidx_cardview_cardview_1_0_0_aarB?gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3?<gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar'$gradle__androidx_core_core_1_2_0_aarA>gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar96gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar+(gradle__androidx_core_core_ktx_1_2_0_aar74gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar30gradle__androidx_customview_customview_1_0_0_aar74gradle__androidx_interpolator_interpolator_1_0_0_aar/,gradle__androidx_fragment_fragment_1_1_0_aar:7gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar41gradle__androidx_lifecycle_lifecycle_common_2_1_096gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar?<gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar+(gradle__androidx_loader_loader_1_0_0_aar;8gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar30gradle__androidx_savedstate_savedstate_1_0_0_aar74gradle__androidx_recyclerview_recyclerview_1_1_0_aar96gradle__androidx_test_espresso_espresso_core_3_2_0_aar'$gradle__androidx_test_core_1_2_0_aar,)gradle__androidx_test_ext_junit_1_1_1_aarDAgradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar)&gradle__androidx_test_runner_1_2_0_aar*'gradle__androidx_test_monitor_1_2_0_aar;8gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar30gradle__androidx_transition_transition_1_2_0_aarEBgradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aarDAgradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar1.gradle__androidx_viewpager_viewpager_1_0_0_aar30gradle__androidx_viewpager2_viewpager2_1_0_0_aar0-gradle__com_google_code_findbugs_jsr305_2_0_196gradle__com_google_android_material_material_1_1_0_aar&#gradle__javax_inject_javax_inject_1(%gradle__com_squareup_javawriter_2_1_1gradle__junit_junit_4_13_1gradle__junit_junit_4_12)&gradle__org_hamcrest_hamcrest_core_1_3"gradle__net_sf_kxml_kxml2_2_3_0,)gradle__org_hamcrest_hamcrest_library_1_30-gradle__org_hamcrest_hamcrest_integration_1_341gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_72)&gradle__org_jetbrains_annotations_13_0;8gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_72

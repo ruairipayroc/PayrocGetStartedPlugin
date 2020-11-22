@@ -1,0 +1,26 @@
+<idea-plugin>
+  <version>1.1</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <id>payroc-get-started</id>
+  <name>Plugin display name here</name>
+  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <description>
+    Enter short description for your plugin here.&lt;br&gt;
+    &lt;em&gt;most HTML tags may be used&lt;/em&gt;
+    </description>
+  <depends>com.intellij.modules.platform</depends>
+  <application-components>
+    <component>
+      <implementation-class>components.MyComponent</implementation-class>
+    </component>
+  </application-components>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <group id="PayrocSetup.TopMenu" text="_PayrocSetup" description="PayrocSetup Toolbar Menu">
+      <add-to-group group-id="MainMenu" anchor="last"/>
+      <action id="MyAction" class="actions.MyAction" text="_MyAction" description="MyAction"/>
+    </group>
+  </actions>
+</idea-plugin>

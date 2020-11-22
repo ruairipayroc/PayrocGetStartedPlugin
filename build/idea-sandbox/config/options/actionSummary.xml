@@ -1,0 +1,15 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="MyAction">
+        <ActionSummary times="2" last="1606081407092" />
+      </entry>
+      <entry key="WelcomeScreen.CreateNewProject">
+        <ActionSummary times="1" last="1605892309888" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="2" last="1606081391708" />
+      </entry>
+    </data>
+  </component>
+</application>

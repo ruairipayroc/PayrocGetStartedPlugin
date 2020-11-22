@@ -1,0 +1,29 @@
+22/11 21:43:35 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Process started with '--ide-token /Users/ruairimcguigan/Development/PayrocGetStarted/build/idea-sandbox/system/token --recorder FUS --files /Users/ruairimcguigan/Development/PayrocGetStarted/build/idea-sandbox/system/event-log/3a97-4615-a6b9-b02da9654072-201.8743.12.41.6953283-release.log:/Users/ruairimcguigan/Development/PayrocGetStarted/build/idea-sandbox/system/event-log/f106-46cb-93e8-7c330f2945b5-201.8743.12.41.6953283-release.log:/Users/ruairimcguigan/Development/PayrocGetStarted/build/idea-sandbox/system/event-log/f605-4a2e-983b-6094c88ee9ce-201.8743.12.41.6953283-release.log --device 2710202a093cdd8-f007-43d0-9236-21c33484783b --bucket 104 --url  --product AI --user-agent Android Studio/201.8743.12.41.6953283'
+22/11 21:43:35 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1606081415404 STARTED
+22/11 21:43:35 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - IDE token file: /Users/ruairimcguigan/Development/PayrocGetStarted/build/idea-sandbox/system/token
+22/11 21:43:35 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Waiting for 2000ms for IDE to close. Attempt #0
+22/11 21:43:37 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Start uploading...
+22/11 21:43:37 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {url:, product:AI, userAgent:Android Studio/201.8743.12.41.6953283(External), internal:false, isTest:false}
+22/11 21:43:37 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {recorder:FUS, files:/Users/ruairimcguigan/Development/PayrocGetStarted/build/idea-sandbox/system/event-log/3a97-4615-a6b9-b02da9654072-201.8743.12.41.6953283-release.log:/Users/ruairimcguigan/Development/PayrocGetStarted/build/idea-sandbox/system/event-log/f106-46cb-93e8-7c330f2945b5-201.8743.12.41.6953283-release.log:/Users/ruairimcguigan/Development/PayrocGetStarted/build/idea-sandbox/system/event-log/f605-4a2e-983b-6094c88ee9ce-201.8743.12.41.6953283-release.log}
+22/11 21:43:37 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {device:2710202a093cdd8-f007-43d0-9236-21c33484783b, bucket:104}
+22/11 21:43:37 WARN  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - 
+org.apache.http.client.ClientProtocolException
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:187)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at com.intellij.internal.statistic.connect.SettingsConnectionService.readSettings(SettingsConnectionService.java:71)
+	at com.intellij.internal.statistic.connect.SettingsConnectionService.getSettingValue(SettingsConnectionService.java:114)
+	at com.intellij.internal.statistic.connect.SettingsConnectionService.getServiceUrl(SettingsConnectionService.java:107)
+	at com.intellij.internal.statistic.eventLog.EventLogStatisticsService.send(EventLogStatisticsService.java:75)
+	at com.intellij.internal.statistic.eventLog.EventLogStatisticsService.send(EventLogStatisticsService.java:51)
+	at com.intellij.internal.statistic.uploader.EventLogUploader.execute(EventLogUploader.java:80)
+	at com.intellij.internal.statistic.uploader.EventLogUploader.main(EventLogUploader.java:21)
+Caused by: org.apache.http.ProtocolException: Target host is not specified
+	at org.apache.http.impl.conn.DefaultRoutePlanner.determineRoute(DefaultRoutePlanner.java:71)
+	at org.apache.http.impl.client.InternalHttpClient.determineRoute(InternalHttpClient.java:125)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	... 9 more
+22/11 21:43:37 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1606081417729 ERROR loading.config.failed org.apache.http.client.ClientProtocolException
+22/11 21:43:37 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1606081417730 FINISHED ERROR_IN_CONFIG
+22/11 21:43:37 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Uploading finished with ERROR_IN_CONFIG
+22/11 21:43:37 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - ERROR: unknown Statistics Service URL.
