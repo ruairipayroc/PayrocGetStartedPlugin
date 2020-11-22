@@ -1,4 +1,4 @@
-# PayrocGetStartedPlugin
+# Payroc SDK Plugin
 
 ## Create plugin to help initialize project to use Payroc SDK. 
 
